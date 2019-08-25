@@ -1,0 +1,13 @@
+int fib(int n){
+    if(n == 0) return 1;
+    return fib(n-1) + fib(n-2);
+}
+
+void main(){
+    /* This is comments field
+    Welcome to our test case teacher
+    It's a pleasure
+    */
+    int n = 10;
+    fib(n);
+}
