@@ -1,4 +1,4 @@
-# Automate Formal Language AFL Readme
+# Lexical Analysis COMPILERS Readme
 ## This repository have one implementation of the assignment lexical analysis for the COMPILERS course. The course was ministered for the teacher PhD Elisângela Silva da Cunha Rodrigues.
 
 
