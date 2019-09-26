@@ -16,4 +16,4 @@
 
 **Thanks for**
 
-@https://github.com/ViniciusNunesMartins
+@ViniciusNunesMartins
